@@ -128,7 +128,8 @@ resources:
     cpu: 100m
 
 # Custom mysql configuration files path
-configurationFilesPath: /etc/mysql/conf.d/
+# Barrett commented this out to see if it would fix the error that cannot load this file.
+# configurationFilesPath: /etc/mysql/conf.d/
 
 # Custom mysql configuration files used to override default mysql settings
 configurationFiles: {}

@@ -1,0 +1,9 @@
+apiVersion: v2
+name: crematory-software
+description: Pet Crematory service and software developed by Barrett Hall
+version: 0.1.0
+# dependencies:
+#   - name:
+#     version:
+#     repository:
+    

@@ -1,9 +1,9 @@
 apiVersion: v2
 name: mychart
 description: A Helm chart for Kubernetes
-home: www.heroboard.com
+home: 
 maintainers:
-  - name: Barrett Hall
+  - name: 
 
 # A chart can be either an 'application' or a 'library' chart.
 #

@@ -3,7 +3,7 @@ name: mychart
 description: A Helm chart for Kubernetes
 home: www.heroboard.com
 maintainers:
-  - name: Barrett Hall
+  - name: barrettjhall1
     email: barrettjhall@gmail.com
 
 # A chart can be either an 'application' or a 'library' chart.
